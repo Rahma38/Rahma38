@@ -68,11 +68,18 @@ Developed a complete Star Schema analytical data mart using PostgreSQL for bus t
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Tools I Love Working With
 
-![Rahma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahma38&show_icons=true&theme=react&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma38&layout=compact&theme=react)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 ---
 
 ## ✉️ Let’s Connect!
