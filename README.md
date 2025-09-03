@@ -56,8 +56,7 @@ Created a full Tableau Story based on AdventureWorks Data Warehouse, with insigh
 Developed a complete Star Schema analytical data mart using PostgreSQL for bus trip analysis. Included SCD Type 2 dimensions to track historical changes. Supports decision-making through advanced SQL queries and historical KPIs.  
 🔗 *https://github.com/Rahma38/Trip_DataMart_project*
 
-📊 Excel Sales Data Analysis & Dashboard – Microsoft Excel
-
+### 🚍 📊 Excel Sales Data Analysis & Dashboard – Microsoft Excel
 Developed an interactive dashboard in Microsoft Excel to analyze sales performance.
 Performed data cleaning (duplicates, missing values), transformations (VLOOKUP, IF, SUMIF), and built Pivot Tables for multi-dimensional analysis. Designed charts and KPIs to highlight total sales, branch performance, top products, and payment method trends.
 
