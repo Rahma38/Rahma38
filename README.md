@@ -60,6 +60,7 @@ Developed a complete Star Schema analytical data mart using PostgreSQL for bus t
 
 Developed an interactive dashboard in Microsoft Excel to analyze sales performance.
 Performed data cleaning (duplicates, missing values), transformations (VLOOKUP, IF, SUMIF), and built Pivot Tables for multi-dimensional analysis. Designed charts and KPIs to highlight total sales, branch performance, top products, and payment method trends.
+
 🔗 *https://github.com/Rahma38/Excel_Sales_Dashboard*
 
 ---
