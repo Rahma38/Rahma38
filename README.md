@@ -62,6 +62,13 @@ Performed data cleaning (duplicates, missing values), transformations (VLOOKUP, 
 
 🔗 *https://github.com/Rahma38/Excel_Sales_Dashboard*
 
+### 🏨 Hotel Revenue Analysis – SQL & Excel
+Designed and executed an end-to-end data analysis project to evaluate hotel performance (2018–2020).
+Built a structured SQL Server database to consolidate multi-year booking data and uncover actionable insights on revenue, cancellations, and customer demographics.
+Summarized findings through Excel-based visual reports and a professional PDF dashboard.
+
+🔗 *https://github.com/Rahma38/hotel-revenue-sql-excel-analysis*
+
 ---
 
 ## 📜 Certifications & Training
